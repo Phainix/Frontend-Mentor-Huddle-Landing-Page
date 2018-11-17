@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Frontend Mentor - Huddle landing page with single introductory section
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
@@ -59,3 +60,7 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 Responsive landing page built with HTML and CSS
 >>>>>>> a381a4d21057231173e0b92abf36fcee3087722b
+=======
+# Frontend-Mentor-Huddle-Landing-Page
+My Submission for the Frontend Mentor Huddle Landing Page Challenge
+>>>>>>> d1934206cbae8edb953bbd25d549f7b9ea4a5290
